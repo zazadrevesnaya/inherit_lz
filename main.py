@@ -1,4 +1,5 @@
 from animals import animals_list
+
 def main():
     print("\nAnimal Information:")
     for animal in animals_list:
